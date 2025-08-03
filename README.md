@@ -9,7 +9,7 @@ This application helps in managing patient records, including adding, updating, 
 ---
 
 ## 📁 Project Structure
-
+'''
 src/main/java/com/
 ├── controller/
 │   └── GenerateReportController.java      # Handles report generation
