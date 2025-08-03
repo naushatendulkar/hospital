@@ -32,7 +32,7 @@ Ensure the following JSP pages are placed in your `WebContent/` or `webapp/` fol
 
 - `index.jsp` – Homepage
 - `patientadd.jsp` – Form to add new patients
-- - `patientdelete.jsp` – Form to delete patients
+- `patientdelete.jsp` – Form to delete patients
 - `patientdisplay.jsp` – View list of patients
 - `report_result.jsp` – Display generated report
 - `home.jsp` – Navigation page
