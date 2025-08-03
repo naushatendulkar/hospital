@@ -12,17 +12,17 @@ This application helps in managing patient records, including adding, updating, 
 
 src/main/java/com/
 ├── controller/
-│ └── GenerateReportController.java # Handles report generation
+│   └── GenerateReportController.java      # Handles report generation
 ├── dao/
-│ └── HospitalDAO.java # Database access object for patients
+│   └── HospitalDAO.java                   # Database access object for patients
 ├── model/
-│ └── Patient.java # Patient entity class
-├── servlet/
-│ ├── AddPatientServlet.java # Add new patient
-│ ├── DeletePatientServlet.java # Delete existing patient
-│ ├── DisplayPatientsServlet.java # Display patient list
-│ ├── ReportServlet.java # Generate report
-│ ├── UpdatePatientServlet.java # Update patient info
+│   └── Patient.java                       # Patient entity class
+└── servlet/
+    ├── AddPatientServlet.java            # Add new patient
+    ├── DeletePatientServlet.java         # Delete existing patient
+    ├── DisplayPatientsServlet.java       # Display patient list
+    ├── ReportServlet.java                # Generate report
+    └── UpdatePatientServlet.java         # Update patient info
 
 ---
 
